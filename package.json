@@ -8,10 +8,13 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@magic-ext/solana": "^4.1.0",
     "@react-native-community/masked-view": "^0.1.11",
+    "@solana/web3.js": "^1.36.0",
     "expo": "~42.0.1",
     "expo-font": "^9.2.1",
     "expo-status-bar": "~1.0.4",
+    "magic-sdk": "^8.1.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
